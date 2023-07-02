@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite FTP-Client">
+    <test name="Test connect with FTP">
+        <classes>
+            <class name="TestsOfFTPConnectClass" />
+        </classes>
+    </test>
+</suite>
